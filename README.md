@@ -26,7 +26,3 @@ This is a responsive **Job Application Form** built using HTML and CSS. It provi
 ## 🙋‍♂️ Author
 
 - GitHub: [Prakash-123705](https://github.com/Prakash-123705)
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
